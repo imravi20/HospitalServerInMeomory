@@ -1,2 +1,2 @@
 ﻿# HospitalServerInMeomory
-w2.5
+w2.5-HKS
