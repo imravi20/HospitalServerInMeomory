@@ -1,2 +1,2 @@
 ﻿# HospitalServerInMeomory
-week 2.5
+w2.5
